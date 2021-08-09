@@ -1,0 +1,1 @@
+# resteasy_path_reproducer
